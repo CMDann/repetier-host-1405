@@ -1,7 +1,3 @@
-_Q: Oh cool, a new RepRap slicer?_
-
-A: Yes.
-
 Slic3r [![Build Status](https://travis-ci.org/alexrj/Slic3r.png?branch=master)](https://travis-ci.org/alexrj/Slic3r)
 ======
 
@@ -65,23 +61,6 @@ $ perl Build.PL --sudo
 $ perl Build.PL --sudo --gui
 $ ./slic3r.pl
 ```
-
-### Can I help?
-
-Sure! Drop me a line at aar@cpan.org. You can also 
-find me in #reprap and in #slic3r on FreeNode with the nickname _Sound_.
-Before sending patches and pull requests contact me to discuss your proposed
-changes: this way we'll ensure nobody wastes their time and no conflicts arise
-in development.
-
-### What's Slic3r license?
-
-Slic3r is licensed under the _GNU Affero General Public License, version 3_.
-The author is Alessandro Ranellucci.
-
-The [Silk icon set](http://www.famfamfam.com/lab/icons/silk/) used in Slic3r is
-licensed under the _Creative Commons Attribution 3.0 License_.
-The author of the Silk icon set is Mark James.
 
 ### How can I invoke slic3r.pl using the command line?
 
