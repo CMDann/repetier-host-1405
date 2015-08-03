@@ -2,6 +2,12 @@
 
 Custom configuration files for the Printrbot 1405 3D printer, both for a stock printer and an updated printer with a heated bed and auto leveling probe.
 
+
+## More help
+
+For more information about getting strted with the simple maker 1405:
+http://printrbot.com/project/simple-makers/
+
 ## License
 ```
 The MIT License (MIT)
